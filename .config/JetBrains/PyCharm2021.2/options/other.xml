@@ -1,0 +1,59 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1yUwh3lSIYTUsuPQe5KoXID8Gmx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yUy9MALUbW6qwTlEsgl7PQKDTw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FindSplitterProportion" value="0.5658043" />
+    <property name="InstalledPluginsSearchHistory" value="python&#10;pytho&#10;py" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PACKAGE_FILTER" value="tk" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="python&#10;git&#10;version control in" />
+    <property name="appcds.runOnSecondStart" value="PY-212.5284.44-229e2d19cdc5fd6abb8d6fa3b301f790929dc2004909e576242522d127eccdc0" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.212" value="13" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/13-Exam2_Practice-watsonet&#10;/home/CosmicElijah/PycharmProjects/12-Patterns_For_Sequences_Revisited-watsonet&#10;/home/CosmicElijah/PycharmProjects/11-Patterns_For_Sequences-watsonet&#10;/home/CosmicElijah/PycharmProjects/10-Sequences-watsonet" />
+    <property name="file.gist.reindex.count" value="5287" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PY-212.5284.44" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/13-Exam2_Practice-watsonet" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="registry.to.advanced.settings.migration.build" value="PY-212.5284.44" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="pythonProject-history" project-path="$USER_HOME$/PycharmProjects/pythonProject" last-access-time="1632319673725" />
+      <command-history-file filename="08-Implementing_Classes-watsonet-history" project-path="$USER_HOME$/PycharmProjects/08-Implementing_Classes-watsonet" last-access-time="1633446443608" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

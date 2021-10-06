@@ -1,0 +1,15 @@
+2021/10/04-14:42:13.794 1aa0 Reusing MANIFEST /home/CosmicElijah/.config/Microsoft/Microsoft Teams/IndexedDB/https_usc-word-edit.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/04-14:42:13.795 1aa0 Recovering log #4
+2021/10/04-14:42:13.795 1aa0 Reusing old log /home/CosmicElijah/.config/Microsoft/Microsoft Teams/IndexedDB/https_usc-word-edit.officeapps.live.com_0.indexeddb.leveldb/000004.log 
+2021/10/05-10:01:48.603 1ab7 Level-0 table #8: started
+2021/10/05-10:01:48.606 1ab7 Level-0 table #8: 11210 bytes OK
+2021/10/05-10:01:48.612 1ab7 Delete type=0 #4
+2021/10/05-10:01:48.612 1ab7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/05-10:01:48.612 1ab7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01'\x004\x003\x00e\x000\x005\x006\x000\x003\x00-\x008\x001\x00b\x00a\x00-\x004\x003\x001\x00d\x00-\x009\x002\x003\x004\x00-\x00d\x003\x009\x004\x005\x005\x009\x008\x002\x005\x004\x00b\x00.\x001\x000' @ 89 : 1
+2021/10/05-10:01:48.612 1ab7 Compacting 1@1 + 1@2 files
+2021/10/05-10:01:48.615 1ab7 Generated table #9@1: 31 keys, 721 bytes
+2021/10/05-10:01:48.615 1ab7 Compacted 1@1 + 1@2 files => 721 bytes
+2021/10/05-10:01:48.621 1ab7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/05-10:01:48.621 1ab7 Delete type=2 #5
+2021/10/05-10:01:48.621 1ab7 Delete type=2 #8
+2021/10/05-10:01:48.621 1ab7 Manual compaction at level-1 from '\x00\x01\x01\x02\x01'\x004\x003\x00e\x000\x005\x006\x000\x003\x00-\x008\x001\x00b\x00a\x00-\x004\x003\x001\x00d\x00-\x009\x002\x003\x004\x00-\x00d\x003\x009\x004\x005\x005\x009\x008\x002\x005\x004\x00b\x00.\x001\x000' @ 89 : 1 .. (end); will stop at (end)

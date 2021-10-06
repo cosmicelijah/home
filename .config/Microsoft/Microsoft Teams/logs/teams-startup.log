@@ -1,0 +1,5 @@
+Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/CosmicElijah/.config/Microsoft/Microsoft Teams/hooks.json'"
+(node:5864) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:5864) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:5864) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:5864) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 will-download listeners added to [Session]. Use emitter.setMaxListeners() to increase limit

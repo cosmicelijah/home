@@ -1,0 +1,4 @@
+[Wed Sep 22 12:28:41.746986 2021] [core:notice] [pid 3218:tid 3218] SELinux policy enabled; httpd running as context unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+[Wed Sep 22 12:28:41.749208 2021] [mpm_prefork:notice] [pid 3219:tid 3219] AH00163: Apache/2.4.49 (Fedora) configured -- resuming normal operations
+[Wed Sep 22 12:28:41.749221 2021] [core:notice] [pid 3219:tid 3219] AH00094: Command line: '/usr/sbin/httpd -f /usr/share/gnome-user-share/dav_user_2.4.conf -C Listen 44697'
+[Wed Sep 22 12:29:24.205217 2021] [mpm_prefork:notice] [pid 3219:tid 3219] AH00169: caught SIGTERM, shutting down

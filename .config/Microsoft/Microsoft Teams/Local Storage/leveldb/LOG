@@ -1,0 +1,59 @@
+2021/10/04-14:34:31.115 16ed Reusing MANIFEST /home/CosmicElijah/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/10/04-14:34:31.116 16ed Recovering log #7
+2021/10/04-14:34:31.116 16ed Reusing old log /home/CosmicElijah/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000007.log 
+2021/10/04-14:35:31.561 18e0 Level-0 table #10: started
+2021/10/04-14:35:31.575 18e0 Level-0 table #10: 296529 bytes OK
+2021/10/04-14:35:31.580 18e0 Delete type=0 #7
+2021/10/04-14:36:31.560 18e0 Level-0 table #12: started
+2021/10/04-14:36:31.576 18e0 Level-0 table #12: 216579 bytes OK
+2021/10/04-14:36:31.583 18e0 Delete type=0 #9
+2021/10/04-14:36:31.583 18e0 Compacting 4@0 + 0@1 files
+2021/10/04-14:36:31.607 18e0 Generated table #13@0: 101 keys, 461051 bytes
+2021/10/04-14:36:31.607 18e0 Compacted 4@0 + 0@1 files => 461051 bytes
+2021/10/04-14:36:31.614 18e0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/10/04-14:36:31.614 18e0 Delete type=2 #3
+2021/10/04-14:36:31.614 18e0 Delete type=2 #6
+2021/10/04-14:36:31.614 18e0 Delete type=2 #10
+2021/10/04-14:36:31.614 18e0 Delete type=2 #12
+2021/10/04-14:42:00.841 18e0 Level-0 table #15: started
+2021/10/04-14:42:00.851 18e0 Level-0 table #15: 74561 bytes OK
+2021/10/04-14:42:00.857 18e0 Delete type=0 #11
+2021/10/04-23:35:15.431 18e0 Level-0 table #17: started
+2021/10/04-23:35:15.444 18e0 Level-0 table #17: 82534 bytes OK
+2021/10/04-23:35:15.450 18e0 Delete type=0 #14
+2021/10/05-10:02:11.340 18e0 Level-0 table #19: started
+2021/10/05-10:02:11.352 18e0 Level-0 table #19: 42562 bytes OK
+2021/10/05-10:02:11.359 18e0 Delete type=0 #16
+2021/10/05-10:54:38.113 18e0 Level-0 table #21: started
+2021/10/05-10:54:38.125 18e0 Level-0 table #21: 54698 bytes OK
+2021/10/05-10:54:38.131 18e0 Delete type=0 #18
+2021/10/05-10:54:38.132 18e0 Compacting 4@0 + 1@1 files
+2021/10/05-10:54:38.152 18e0 Generated table #22@0: 140 keys, 543346 bytes
+2021/10/05-10:54:38.152 18e0 Compacted 4@0 + 1@1 files => 543346 bytes
+2021/10/05-10:54:38.158 18e0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/10/05-10:54:38.159 18e0 Delete type=2 #13
+2021/10/05-10:54:38.159 18e0 Delete type=2 #15
+2021/10/05-10:54:38.159 18e0 Delete type=2 #17
+2021/10/05-10:54:38.159 18e0 Delete type=2 #19
+2021/10/05-10:54:38.159 18e0 Delete type=2 #21
+2021/10/05-11:50:38.023 18e0 Level-0 table #24: started
+2021/10/05-11:50:38.029 18e0 Level-0 table #24: 75322 bytes OK
+2021/10/05-11:50:38.036 18e0 Delete type=0 #20
+2021/10/05-14:25:49.141 18e0 Level-0 table #26: started
+2021/10/05-14:25:49.154 18e0 Level-0 table #26: 37089 bytes OK
+2021/10/05-14:25:49.161 18e0 Delete type=0 #23
+2021/10/05-14:39:13.613 18e0 Level-0 table #28: started
+2021/10/05-14:39:13.626 18e0 Level-0 table #28: 52159 bytes OK
+2021/10/05-14:39:13.632 18e0 Delete type=0 #25
+2021/10/05-14:39:28.548 18e0 Level-0 table #30: started
+2021/10/05-14:39:28.560 18e0 Level-0 table #30: 23648 bytes OK
+2021/10/05-14:39:28.567 18e0 Delete type=0 #27
+2021/10/05-14:39:28.567 18e0 Compacting 4@0 + 1@1 files
+2021/10/05-14:39:28.587 18e0 Generated table #31@0: 139 keys, 543406 bytes
+2021/10/05-14:39:28.587 18e0 Compacted 4@0 + 1@1 files => 543406 bytes
+2021/10/05-14:39:28.594 18e0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/10/05-14:39:28.594 18e0 Delete type=2 #22
+2021/10/05-14:39:28.594 18e0 Delete type=2 #24
+2021/10/05-14:39:28.594 18e0 Delete type=2 #26
+2021/10/05-14:39:28.594 18e0 Delete type=2 #28
+2021/10/05-14:39:28.594 18e0 Delete type=2 #30
