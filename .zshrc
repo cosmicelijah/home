@@ -92,7 +92,7 @@ alias hw='hwinfo --short'                                   # Hardware Info
 
 # Add header
 
-	cat .bash_header | cowsay | lolcat
+	cat ~/.bash_header | cowsay | lolcat
 
 # Get fastest mirrors 
 alias mirror="sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist" 

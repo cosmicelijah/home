@@ -12,4 +12,3 @@ alias manjaroserver="ssh -X cosmicelijah@68.50.117.190"
 # alias "updatewebsite"="ssh cosmicelijah@10.0.0.184 'rm -r ~/website/wibsite && sshpass -p Coconut2003! scp -r cosmicelijah@6.50.117.190:~/Documents/website/ ~/website/wibsite/ && doas systemctl restart website && echo Done"
 alias elephant="repo-elephant -h && repo-elephant"
 alias bashtop=bpytop
-alias cd="cd && ls"
