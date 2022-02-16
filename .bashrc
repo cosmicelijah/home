@@ -12,7 +12,6 @@
 # Adds bash header from the ~/.bash_header "header" file and pipes it through lolcat for the lolz
 
 	cat ~/.bash_header | cowsay | lolcat
-#	neofetch
 
 # Adds aliases from the ~/.bash_aliases "addalias" file
 
@@ -56,3 +55,6 @@ PS2='\[\e[1;35m\]>\[\e[0;37m\] '
 	bind -x '"\C-n":"neofetch"'
 export PATH="/home/cosmicelijah/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/bin:/sbin:/home/CosmicElijah/Downloads/pycharm-2021.2.2/bin"
 # export PATH="$HOME/Downloads/pycharm-2021.2.2/bin:$PATH"
+
+# Initialize Wacom tablet ExpressButtons
+~/.xsetwacom.sh

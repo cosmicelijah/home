@@ -1,5 +1,5 @@
 alias addalias='nano ~/.bash_aliases'
-alias n="neofetch"
+alias n="neofetch --ascii_distro"
 alias c="clear"
 alias sus='systemctl suspend'
 alias editconfig='nano ~/.bashrc'
@@ -20,3 +20,10 @@ alias mail="~/Downloads/zoho-mail-desktop-x64-v1.3.1.AppImage"
 # alias sshlaptop="ssh -X cosmicelijah@137.112.236.13"
 # alias gentoo="sudo chroot /mnt/gentoo /bin/bash && source /etc/profile export PS1='(gentoo) ${PS1}' && su cosmicelijah"
 alias bashtop=bpytop
+alias pycharm="screen -dmS pycharm"
+# alias neofetch=hentaifetch
+alias localhorny="feh -FZzx -D 5 ~/Documents/stuff/"
+alias count="python ~/word_count.py"
+alias cdfp="cd /home/CosmicElijah/EclipseProjects/csse220-winter-2021-2022-final-project-w22_r_503"
+alias gitp="git push -u origin master"
+alias gitf="git pull origin"
