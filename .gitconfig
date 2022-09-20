@@ -1,0 +1,5 @@
+[user]
+	name = watsonet
+	email = watsonet@rose-hulman.edu
+[pull]
+	rebase = false

@@ -1,0 +1,17 @@
+# Ignore all
+*
+
+# Allow neofetch config files
+!/.config/neofetch/*
+
+# Allow some bash files
+!/.bashrc
+!/.bash_aliases
+!/.bash_header
+
+# Allow git files
+!/.git/*
+!/.gitignore
+!/.gitconfig
+
+

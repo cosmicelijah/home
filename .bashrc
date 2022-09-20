@@ -5,6 +5,11 @@
 # If not running interactively, don't do anything
 	 [[ $- != *i* ]] && return
 
+# Set PATH
+
+systemctl --user import-environment PATH
+export PATH="~/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/bin:/sbin:~/Downloads/pycharm-2021.2.2/bin"
+
 # Pipes bash through lolcat
 
 #	bash | lolcat
@@ -53,8 +58,13 @@ PS2='\[\e[1;35m\]>\[\e[0;37m\] '
 # Use ctrl-n for neofetch
 
 	bind -x '"\C-n":"neofetch"'
-export PATH="/home/cosmicelijah/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/bin:/sbin:/home/CosmicElijah/Downloads/pycharm-2021.2.2/bin"
-# export PATH="$HOME/Downloads/pycharm-2021.2.2/bin:$PATH"
 
 # Initialize Wacom tablet ExpressButtons
-~/.xsetwacom.sh
+
+~/wacom-config.sh
+
+export QSYS_ROOTDIR="/home/CosmicElijah/intelFPGA_lite/21.1/quartus/sopc_builder/bin"
+
+eval "$(thefuck --alias)"
+export LD_LIBRARY_PATH=/usr/arm-linux-gnueabihf/sys-root/lib/
+
