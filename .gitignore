@@ -12,6 +12,5 @@
 # Allow git files
 !/.git/*
 !/.gitignore
-!/.gitconfig
 
 
